@@ -1,5 +1,6 @@
 # FOREX-FBProphet
-
+- This repository contains an implementation of the Facebook Prophet model for time series forecasting. The Prophet model is a powerful tool developed by Facebook's Core Data Science team that is specifically designed to handle time series data with strong seasonality and various trends.
+  
 ## Prepare your data:
 
  - Make sure you have a CSV file containing historical Forex data. The dataset used can be found [here](EURUSD_Candlestick_1_Hour_BID_04.05.2003-15.04.2023.csv) or in the main repository.
