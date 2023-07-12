@@ -2,7 +2,7 @@
 
 ## Prepare your data:
 
- - Make sure you have a CSV file containing historical Forex data. The dataset used can be found [here](EURUSD_Candlestick_1_Hour_BID_04.05.2003-15.04.2023.csv)
+ - Make sure you have a CSV file containing historical Forex data. The dataset used can be found [here](EURUSD_Candlestick_1_Hour_BID_04.05.2003-15.04.2023.csv) or in the main repository.
 
 ## Customize the model parameters:
 
